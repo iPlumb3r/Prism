@@ -1,7 +1,9 @@
-SEAMLESS
+Prism
 ==
 
-SEAMLESS is all about "how to represents & visualizes semantically organized data" ? 
+Prism is all about "how to represents & visualizes semantically organized data" ? 
+
+![Icon](https://github.com/iPlumb3r/Prism/blob/master/images/icon%40Prism.png)
 
 Principle
 -
