@@ -21,7 +21,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         <tr>
             <th>Deliverable</th>
             <td>Representation & Visualization Model(s)</td>
-            <td></td>
+            <td>N/A</td>
         </tr>
     </tbody>
 </table>
