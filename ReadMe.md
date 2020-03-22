@@ -15,7 +15,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
     <tbody>
         <tr>
             <th>Initiative</th>
-            <td>Th3Sr1b3Pr0j3ct</td>
+            <td>Prism</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1676">#1676</a></td>
         </tr>
         <tr>
