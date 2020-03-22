@@ -31,7 +31,7 @@ _Note : EBR ID allows to semantically navigate in the <a href="https://www.topin
         <tr>
         <tr>
             <th>Used By</th>
-            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">EcosystemMappin</a> (Onto-Terminology)</td>
+            <td><a href="https://github.com/iPlumb3r/EcosystemMapping">EcosystemMapping</a> (Semantic Cartography of Ecosystems)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1675">#1675</a></td>
         </tr>
         <tr>
