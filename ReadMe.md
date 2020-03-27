@@ -12,9 +12,14 @@ Initiative ID Card
     </thead>
     <tbody>
         <tr>
-            <th>Initiative</th>
+            <th>Name</th>
             <td>Prism</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1676">#1676</a></td>
+        </tr>
+        <tr>
+            <th>Description</th>
+            <td>All about "how to represents & visualizes semantically organized data" ? </td>
+            <td>N/A</td>
         </tr>
         <tr>
             <th>Deliverable</th>
@@ -51,11 +56,6 @@ Initiative ID Card
 </table>
 
 _Note : EBR ID allows to <a href="https://github.com/iPlumb3r/BigPicture/blob/master/HowTo/Navigate_EN.md">semantically navigate</a> in the <a href="https://www.topincs.com/EntangledBootstrap/">Topincs-powered "Entangled Bootstrap" Repository</a>_
-
-Introduction
--
-
-Prism is all about "how to represents & visualizes semantically organized data" ? 
 
 
 Principle
