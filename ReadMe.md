@@ -18,7 +18,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Description</th>
-            <td>All about "how to represents & visualizes semantically organized data" ? </td>
+            <td>All about "how to represents & visualizes semantically organized data" ?</td>
             <td>N/A</td>
         </tr>
         <tr>
