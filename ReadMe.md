@@ -27,6 +27,11 @@ Initiative ID Card
             <td>N/A</td>
         </tr>
         <tr>
+            <th>Tags</th>
+            <td>#<a href="https://www.topincs.com/EntangledBootstrap/1667">#SemanticCartography</a> #SemanticallyOrganizedData #Representation #Visualization</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <th>Domain</th>
             <td>Semantic Cartography</td>
             <td>N/A</td>
