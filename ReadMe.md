@@ -70,11 +70,11 @@ _Note : EBR ID allows to <a href="https://github.com/iPlumb3r/BigPicture/blob/ma
 
 Principle
 -
-![BigPicture](https://github.com/iPlumb3r/SEAMLESS/blob/master/images/SEAMLESS_BigPicture_1.png)
+![BigPicture](https://github.com/iPlumb3r/Prism/blob/master/images/SEAMLESS_BigPicture_1.png)
 
 Process
 -
-![BigPicture](https://github.com/iPlumb3r/SEAMLESS/blob/master/images/SEAMLESS_BigPicture_2.png)
+![BigPicture](https://github.com/iPlumb3r/Prism/blob/master/images/SEAMLESS_BigPicture_2.png)
 
 
 Icon
